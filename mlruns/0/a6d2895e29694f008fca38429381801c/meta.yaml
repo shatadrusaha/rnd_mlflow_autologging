@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/study/python/rnd_mlflow_autologging/mlruns/0/a6d2895e29694f008fca38429381801c/artifacts
+end_time: 1718306449441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6d2895e29694f008fca38429381801c
+run_name: whimsical-newt-532
+run_uuid: a6d2895e29694f008fca38429381801c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718306444226
+status: 3
+tags: []
+user_id: shaz
